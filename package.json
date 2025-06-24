@@ -1,8 +1,11 @@
 {
-  "name": "expense_tracker",
+  "name": "expense-tracker",
+  "version": "1.0.0",
   "private": true,
-  "version": "0.0.0",
   "type": "module",
+  "description": "A modern expense tracker built with React, Vite, and Tailwind CSS.",
+  "author": "Adrika Sarawat",
+  "license": "MIT",
   "proxy": "http://localhost:3000",
   "scripts": {
     "dev": "vite",
@@ -35,5 +38,13 @@
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.16",
     "vite": "^6.0.1"
-  }
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "expense-tracker",
+    "tailwind",
+    "redux",
+    "chart.js"
+  ]
 }
