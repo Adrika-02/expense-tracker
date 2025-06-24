@@ -1,5 +1,5 @@
 
-# Expense Tracker  - React
+# Expense Tracker
 
 **A simple Expense tracker built with React and Vite.**
 
